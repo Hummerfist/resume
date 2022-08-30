@@ -1,0 +1,53 @@
+  body {
+    background-color: #C1EFFF
+  }
+  hr {
+    width: 100%;
+    border: 5px dotted;
+    border-style: none none dotted;
+    color: grey
+  }
+  h1 {
+    color:#293462;
+  }
+ li {
+   color: 277BC0;
+   font-size: 24
+
+ }
+ a {
+   color: 277BC0;
+   font-size: 24
+ }
+
+ img:hover {
+   background: gold
+ }
+
+
+/***********************************Class Selectors****************************************************/
+.Meet {
+  background: #C3FF99;
+}
+
+.broccoli {
+  background: red;
+}
+
+.cherries {
+
+background: #F7A76C;
+}
+
+.Test {
+  color: 277BC0;
+  font-size: 24
+}
+
+.circuular {
+  border-radius: 100%;
+}
+/***********************************ID Selectors****************************************************/
+ #heading {
+   color: blue;
+ }
